@@ -2,7 +2,7 @@
 
 ## What is the expected workload?
 Commitment: 2 weeks (in total 12 hours of expected work)
- - Two teaching sessions per week (4 hours per week)
+ - One teaching sessions per week (1 hour per week)
  - One homework sheet per session (2 hours per week)
 
 ## Is there a certificate for this course?
